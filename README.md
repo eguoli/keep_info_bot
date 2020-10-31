@@ -1,5 +1,5 @@
 
-[![keep_info_bot](https://eguoli.github.io/keep_info_bot/keep-info-bot.jpg)](https://eguoli.github.io/keep_info_bot/)
+[![keep_info_bot](https://github.com/eguoli/keep_info_bot/blob/main/keep-info-bot.jpg)](https://github.com/eguoli/keep_info_bot)
 
 #keep_info_bot
 
